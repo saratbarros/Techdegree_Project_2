@@ -1,5 +1,5 @@
 # Techdegree_Project_2
- Unit 2 Project - Mobile-first Responsive Layout
+ Unit 2 Project - Mobile-first Responsive Layout [view here](https://saratbarros.github.io/Techdegree_Project_2/)
 - *Final Grade:* **Exceeds Expectations**
 
 ## About the project
